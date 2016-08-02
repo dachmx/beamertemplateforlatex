@@ -1,0 +1,15 @@
+\beamer@endinputifotherversion {3.10pt}
+\beamer@sectionintoc {2}{Slide的基本概念}{3}{0}{1}
+\beamer@subsectionintoc {2}{1}{Slide的实现方式}{5}{0}{1}
+\beamer@subsectionintoc {2}{2}{T\kern -.1667em\lower .5ex\hbox {E}\kern -.125emX\spacefactor \@m Slide实现的特点}{13}{0}{1}
+\beamer@sectionintoc {3}{Beamer文件的框架}{18}{0}{2}
+\beamer@subsectionintoc {3}{1}{逻辑和内容的独立}{19}{0}{2}
+\beamer@subsectionintoc {3}{2}{内容和显示效果的独立}{21}{0}{2}
+\beamer@sectionintoc {4}{Beamer效果演示}{23}{0}{3}
+\beamer@subsectionintoc {4}{1}{逐行显示的实现}{24}{0}{3}
+\beamer@subsectionintoc {4}{2}{字体和色彩的演示}{28}{0}{3}
+\beamer@subsectionintoc {4}{3}{换页动态效果}{35}{0}{3}
+\beamer@subsectionintoc {4}{4}{超级链接的实现}{46}{0}{3}
+\beamer@subsectionintoc {4}{5}{包含图象}{53}{0}{3}
+\beamer@subsectionintoc {4}{6}{包含视频和音频}{57}{0}{3}
+\beamer@sectionintoc {5}{附录}{60}{1}{4}

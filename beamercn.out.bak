@@ -1,0 +1,15 @@
+\BOOKMARK [2][]{Outline0.2}{Slide的基本概念}{}% 1
+\BOOKMARK [3][]{Outline0.2.1.5}{Slide的实现方式}{Outline0.2}% 2
+\BOOKMARK [3][]{Outline0.2.2.13}{TeXSlide实现的特点}{Outline0.2}% 3
+\BOOKMARK [2][]{Outline0.3}{Beamer文件的框架}{}% 4
+\BOOKMARK [3][]{Outline0.3.1.19}{逻辑和内容的独立}{Outline0.3}% 5
+\BOOKMARK [3][]{Outline0.3.2.21}{内容和显示效果的独立}{Outline0.3}% 6
+\BOOKMARK [2][]{Outline0.4}{Beamer效果演示}{}% 7
+\BOOKMARK [3][]{Outline0.4.1.24}{逐行显示的实现}{Outline0.4}% 8
+\BOOKMARK [3][]{Outline0.4.2.28}{字体和色彩的演示}{Outline0.4}% 9
+\BOOKMARK [3][]{Outline0.4.3.35}{换页动态效果}{Outline0.4}% 10
+\BOOKMARK [3][]{Outline0.4.4.46}{超级链接的实现}{Outline0.4}% 11
+\BOOKMARK [3][]{Outline0.4.5.53}{包含图象}{Outline0.4}% 12
+\BOOKMARK [3][]{Outline0.4.6.57}{包含视频和音频}{Outline0.4}% 13
+\BOOKMARK [1][]{Outline1}{Appendix}{}% 14
+\BOOKMARK [2][]{Outline1.5}{附录}{Outline1}% 15

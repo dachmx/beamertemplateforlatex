@@ -1,0 +1,19 @@
+\beamer@endinputifotherversion {3.10pt}
+\beamer@sectionintoc {1}{Tools Like Powerpoint}{3}{1}{1}
+\beamer@sectionintoc {2}{T\kern -.1667em\lower .5ex\hbox {E}\kern -.125emX\spacefactor \@m Tools}{12}{1}{2}
+\beamer@sectionintoc {3}{Guidelines on What to Put on a Frame}{23}{2}{3}
+\beamer@sectionintoc {4}{Guidelines on Titles}{25}{2}{4}
+\beamer@sectionintoc {5}{Guidelines on the Body Text}{27}{2}{5}
+\beamer@sectionintoc {6}{Guidelines on Graphics}{29}{2}{6}
+\beamer@sectionintoc {7}{Guidelines on Colors}{31}{2}{7}
+\beamer@sectionintoc {8}{Guidelines on Animations and Special Effects}{33}{2}{8}
+\beamer@sectionintoc {9}{The Features of Beamer}{36}{3}{9}
+\beamer@sectionintoc {10}{Installation}{41}{3}{10}
+\beamer@sectionintoc {11}{Workflow}{43}{3}{11}
+\beamer@sectionintoc {12}{Frames and Overlays}{47}{4}{12}
+\beamer@subsectionintoc {12}{1}{Overlays}{48}{4}{12}
+\beamer@subsectionintoc {12}{2}{Frames}{59}{4}{12}
+\beamer@sectionintoc {13}{Color Management}{77}{4}{13}
+\beamer@sectionintoc {14}{Graphics, Animations, sounds, and Slide Transitions }{82}{4}{14}
+\beamer@sectionintoc {15}{Customization}{96}{4}{15}
+\beamer@sectionintoc {17}{Tips and (Dirty) Tricks}{102}{5}{16}

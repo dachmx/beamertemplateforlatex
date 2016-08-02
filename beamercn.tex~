@@ -1,0 +1,69 @@
+
+%%% Local Variables: 
+%%% mode: latex
+%%% TeX-master: t
+%%% End: 
+
+                                %
+                                %
+                                % 
+\documentclass[CJK]{beamer}
+
+\usepackage{CJK}
+\usepackage{beamerthemeshadow}
+\usepackage[width=2cm,dark,tab]{beamerthemesidebar}
+
+\begin{document}
+\begin{CJK*}{GBK}{kai}
+
+\title{使用Beamer制作Slide入门}
+\author{于海军}
+\frame{\titlepage}
+
+\section*{提纲}               % section后面加*表示不收录到目录中
+\frame
+{
+  \frametitle{\secname}
+  \tableofcontents            % 使用这个命令自动生成目录
+}
+
+\AtBeginSubsection[]          % 在每个子段落之前
+{
+  \frame<handout:0>           % handout:0 表示只在手稿中出现
+  {
+    \frametitle{框架} 
+    \tableofcontents[current,currentsubsection] % 显示在目录中加亮的当前章节
+  }
+}
+
+\section{Slide的基本概念}
+\frame{
+  \frametitle{\secname}
+  所谓Slide就是幻灯片的意思，幻灯片是一种类似照片底片的透明胶片，演讲者在演讲前将一些演讲相关的文字图表等打印到透明胶片上，在演讲的时候通过幻灯机(projection)投影到幕布上，起到帮助演讲者传达信息的作用。\\
+  \par
+  在计算机出现之后，现在人们开始在计算机上制作Slide,并且直接通过计算机显示和放映。
+  }
+\subsection{Slide的实现方式}
+\frame{\frametitle{这是正式的第一页}}
+\subsection{\TeX Slide的主要实现}
+\frame{\frametitle{哈哈这是第二页}}
+
+\section{Beamer文件的框架}
+\subsection{section和frame的结合}
+\frame{\frametitle{\secname} \subsecname}
+
+\section{Beamer的深入}
+\subsection{逐行显示的实现}
+\frame
+{
+  \frametitle{这一页演示逐行显示效果}
+  \begin{itemize}[<+-|  alert@+>]
+  \item 这一段在第一个Slide上显示，并被加亮
+  \item 这一段在第二个Slide上显示，并被加亮
+  \item 这一段在第三个Slide上显示，并被加亮
+  \end{itemize}
+}
+
+
+\end{CJK*}
+\end{document}
